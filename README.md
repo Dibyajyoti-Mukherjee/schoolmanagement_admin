@@ -1,4 +1,4 @@
-To chcek the codes, please download and unzip the code.zip file it contains all the codes of projects
+To check the codes, please download and unzip the code.zip file it contains all the codes of projects
 to check js and jquery codes or css codes open the folder using any code editor.
 
 
