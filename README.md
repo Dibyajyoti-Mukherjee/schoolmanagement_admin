@@ -1,5 +1,9 @@
+To chcek the codes, please download and unzip the code.zip file it contains all the codes of projects
+to check js and jquery codes or css codes open the folder using any code editor.
+
+
 To run the project on your system you have to follow below steps:
-1)Download the zip file and unzip it
+1)Download the schoolmanagement.zip file and unzip it
 2)Install xampp server 
 3)After installing it successfully copy the unzip file "schoolmanagement" and paste it in c drive->xampp->htdocs
 4)Then Open Xampp Control Panel and click on start beside Apache server and click on start beside mysql.
@@ -8,3 +12,4 @@ To run the project on your system you have to follow below steps:
 7)user name will be admin and password will be admin as well to log in.
 Thank you .
 [Note: To see the codes select the folder on your code editer from the location where you will paste the file]
+
